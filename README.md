@@ -93,6 +93,6 @@ results.show()
 - [Ultralytics YOLOv8 Docs](https://docs.ultralytics.com/)
 - [YOLO Dataset Preparation](https://roboflow.com/)
 
-**Happy Coding! 🚀**
+**Happy Coding! 🚀 From Tesfalegn Petros**
 
 
